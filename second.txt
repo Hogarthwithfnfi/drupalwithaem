@@ -3,3 +3,4 @@ this is third
 this is second
 this is first
 this line is writen in gui to test the git pull
+this line is test the git fetch
