@@ -1,1 +1,2 @@
-testing hard and soft reset
+testing hard and soft rese
+testing again 
